@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Dependency directories
+venv/
+env/
+env.bak/
+.venv/
+.venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
